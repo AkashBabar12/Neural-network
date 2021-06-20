@@ -1,0 +1,3 @@
+# Neural-network
+Neural-network_forestfires
+PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
